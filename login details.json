@@ -2,12 +2,10 @@
     "users": [
         {
             "username": "user1",
-            "name";"Karan",
             "password": "password123"
         },
         {
             "username": "user2",
-            "name";"jaideep Bijur",
             "password": "securepass456"
         }
     ]
